@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo for introducing git.
+This is a demo for introducing git!
